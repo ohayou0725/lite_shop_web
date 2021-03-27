@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2a515f54"],{"175c":function(t,e,n){"use strict";n("c361")},c361:function(t,e,n){},daa0:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"order-detail"},[n("nav-bar",{attrs:{title:"订单详情"}}),t._v(" 开发中.... ")],1)},c=[],r={name:"OrderDetail"},i=r,s=(n("175c"),n("2877")),u=Object(s["a"])(i,a,c,!1,null,"20f3d875",null);e["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2a515f54.893cdfef.js.map
